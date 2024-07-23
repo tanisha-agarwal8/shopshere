@@ -1,0 +1,268 @@
+.box {
+    height: 365px;
+    position: relative;
+    width: 100%;
+    margin-top:5%;
+  }
+  
+  .box .group {
+    height: 365px;
+    left: 0;
+    /* position: fixed; */
+    top: 0;
+    width: 1440px;
+  }
+  
+  .box .overlap-group-wrapper {
+    height: 125px;
+    left: 0;
+    position: absolute;
+    top: 240px;
+    width: 1442px;
+  }
+  
+  .box .overlap-group {
+    background-color: #006d77;
+    height: 125px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .box .copyright-all-rights {
+    color: #ffffff;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 611px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 60px;
+    white-space: nowrap;
+  }
+  
+  .box .div {
+    height: 212px;
+    left: 207px;
+    position: absolute;
+    top: 0;
+    width: 1036px;
+  }
+  
+  .box .rectangle {
+    height: 72px;
+    left: -11px;
+    object-fit: cover;
+    position: absolute;
+    top: -5px;
+    width: 182px;
+  }
+  
+  .box .text-wrapper {
+    color: #000000;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 77px;
+    white-space: nowrap;
+  }
+  
+  .box .about-us {
+    color: #000000;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 285px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+  }
+  
+  .box .discover {
+    color: #000000;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 570px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+  }
+  
+  .box .useful-links {
+    color: #000000;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 855px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+  }
+  
+  .box .group-2 {
+    height: 120px;
+    left: 285px;
+    position: absolute;
+    top: 60px;
+    width: 149px;
+  }
+  
+  .box .frame {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .box .material-symbols {
+    height: 16px;
+    position: relative;
+    width: 16px;
+  }
+  
+  .box .text-wrapper-2 {
+    color: #919191;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0.75px;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .box .frame-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 0;
+    position: absolute;
+    top: 34px;
+  }
+  
+  .box .frame-3 {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 0;
+    position: absolute;
+    top: 68px;
+  }
+  
+  .box .frame-4 {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 0;
+    position: absolute;
+    top: 102px;
+  }
+  
+  .box .group-3 {
+    height: 124px;
+    left: 570px;
+    position: absolute;
+    top: 57px;
+    width: 456px;
+  }
+  
+  .box .frame-5 {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 0;
+    position: absolute;
+    top: 4px;
+  }
+  
+  .box .frame-6 {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 285px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .box .frame-7 {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 0;
+    position: absolute;
+    top: 38px;
+  }
+  
+  .box .frame-8 {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 285px;
+    position: absolute;
+    top: 34px;
+  }
+  
+  .box .frame-9 {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 0;
+    position: absolute;
+    top: 72px;
+  }
+  
+  .box .frame-10 {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 285px;
+    position: absolute;
+    top: 68px;
+  }
+  
+  .box .frame-11 {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 0;
+    position: absolute;
+    top: 106px;
+  }
+  
+  .box .material-symbols-wrapper {
+    align-items: center;
+    display: inline-flex;
+    gap: 9px;
+    left: 285px;
+    position: absolute;
+    top: 102px;
+  }
+  
+  .box .p {
+    color: #444444;
+    font-family: "Roboto-Light", Helvetica;
+    font-size: 14px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 111px;
+    width: 255px;
+  }
+  

@@ -1,0 +1,196 @@
+/* src/styles/Reviews.css */
+.component {
+  height: 484px;
+  position: relative;
+  width: 100%;
+  background-color: #e2fbff;
+  padding-left: 10%;
+}
+
+.component .content-box {
+  position: relative;
+  /* border:10px solid */
+}
+
+.component .frame {
+  align-items: flex-start;
+  background-color: #bee1e6;
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  height: 36px;
+  left: 0;
+  padding: 10px 15px;
+  position: absolute;
+  top: 21px;
+  width: 170px;
+}
+
+.component .text-wrapper {
+  color: #000000;
+  font-family: "Roboto-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component .div-wrapper {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 183px;
+  width: 631px;
+}
+
+.component .div {
+  align-self: stretch;
+  color: #444444;
+  font-family: "Roboto-Light", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: justify;
+  width: 631px;
+}
+
+.component .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 78px;
+  width: 633px;
+}
+
+.component .p {
+  color: #000000;
+  flex: 1;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-size: 33px;
+  font-weight: 600;
+  height: 97px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -12px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.component .group {
+  height: 153px;
+  left: 1px;
+  position: absolute;
+  top: 287px;
+  width: 286px;
+}
+
+.component .ellipse {
+  height: 45px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.component .text-wrapper-2 {
+  color: #444444;
+  font-family: "Roboto-Light", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: justify;
+  top: 52px;
+  width: 282px;
+}
+
+.component .text-wrapper-3 {
+  color: #000000;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 120px;
+}
+
+.component .overlap-group {
+  height: 502px;
+  left: 754px; /* Adjusted left value */
+  position: absolute;
+  top: -5px;
+  width: 463px;
+}
+
+.component .rectangle {
+  height: 446px;
+  left: 50px; /* Adjusted left value */
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 368px;
+  border-radius: 25px;
+}
+
+.component .img {
+  height: 225px;
+  left: 335px; /* Adjusted left value */
+  object-fit: cover;
+  position: absolute;
+  top: 250px;
+  width: 178px;
+  border-radius: 25px;
+}
+
+.component .group-2 {
+  height: 153px;
+  left: 348px; /* Adjusted left value */
+  position: absolute;
+  top: 287px;
+  width: 287px;
+}
+
+.component .text-wrapper-4 {
+  color: #444444;
+  font-family: "Roboto-Light", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: justify;
+  top: 52px;
+  width: 283px;
+}
+
+.component .text-wrapper-5 {
+  color: #000000;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  left: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 163px;
+}

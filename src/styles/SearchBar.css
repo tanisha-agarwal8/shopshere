@@ -1,0 +1,9 @@
+/* src/styles/SearchBar.css */
+.search-bar {
+    padding: 0.5rem;
+    border: 1px solid #d1d5db;
+    border-radius: 0.25rem;
+    margin-left: 1rem;
+    color:black;
+  }
+  

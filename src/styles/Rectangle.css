@@ -1,0 +1,21 @@
+.rectangle-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px; /* Adjust the gap between images if needed */
+  justify-content: center; /* Center the images horizontally */
+  margin-top:5%;
+}
+
+.rectangle-image {
+  width: 300px; /* Adjust width as needed */
+  height: 100px; /* Adjust height as needed */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effects */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add initial shadow */
+  cursor: pointer; /* Change cursor on hover */
+}
+
+.rectangle-image:hover {
+  transform: scale(1.1); /* Scale up on hover */
+  box-shadow: 0 0 20px 10px rgba(0, 123, 255, 0.6);
+  cursor: pointer; /* Ensure cursor remains a pointer on hover */
+}

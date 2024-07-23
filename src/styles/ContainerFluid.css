@@ -1,0 +1,155 @@
+.container-fluid {
+    background: linear-gradient(180deg, rgb(150, 232.82, 251) 0%, rgb(171, 236, 214) 100%);
+    border-radius: 20px;
+    height: 622px;
+    width: 100%;
+    max-width: 1292px;
+    margin: 50px auto 0; /* Add top margin for spacing from the navbar */
+    position: relative; /* Make sure the container is positioned relatively */
+  }
+  .container-fluid .row {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 0 0 0 206px;
+  }
+  
+  .container-fluid .col-md {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    width: 548px;
+  }
+  
+  .container-fluid .h {
+    color: #333; /* Replace with your desired color */
+    font-family: Arial, sans-serif; /* Replace with your font family */
+    font-size: 2rem; /* Replace with your font size */
+    font-weight: bold;
+    margin-top: -1px;
+  }
+  
+  .container-fluid .headline {
+    color: #000; /* Replace with your desired color */
+    font-family: Arial, sans-serif; /* Replace with your font family */
+    font-size: 3rem; /* Replace with your font size */
+    font-weight: bold;
+  }
+  
+  .container-fluid .text-wrapper {
+    color: #555; /* Replace with your desired color */
+    font-family: Arial, sans-serif; /* Replace with your font family */
+    font-size: 1rem; /* Replace with your font size */
+  }
+  
+  .container-fluid .cta {
+    all: unset;
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .container-fluid .button-btn-primary {
+    align-items: center;
+    background-color: #007bff; /* Replace with your primary color */
+    border-radius: 5px;
+    display: inline-flex;
+    padding: 15px 40px;
+  }
+  
+  .container-fluid .div {
+    color: #fff; /* Replace with your light text color */
+    font-family: Arial, sans-serif; /* Replace with your font family */
+    font-size: 1rem; /* Replace with your font size */
+    text-align: center;
+  }
+  
+  .container-fluid .hero-cover-wrapper {
+    height: 619px;
+    width: 100%;
+    max-width: 697px;
+    position: relative; /* Make sure the wrapper is positioned relatively */
+  }
+  
+  .container-fluid .hero-cover {
+    height: 619px;
+    overflow: hidden;
+    position: relative; /* Make sure the cover is positioned relatively */
+  }
+  
+  .container-fluid .none {
+    height: 690px;
+    position: relative;
+  }
+  
+  .container-fluid .overlap-group {
+    height: 631px;
+    position: relative;
+    z-index: 1; /* Ensure the overlap-group is in front */
+  }
+  
+  .container-fluid .ellipse {
+    background-color: #fff; /* Replace with your background color */
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 0;
+    left: 128px;
+    z-index: 0; /* Ensure the ellipse is behind */
+  }
+  
+  .container-fluid .ellipse-2 {
+    background-color: #fff; /* Replace with your background color */
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 12px;
+    left: 68px;
+  }
+  
+  .container-fluid .technology {
+    height: 619px;
+    width: 100%;
+    position: absolute; /* Ensure the image is positioned absolutely */
+    top: 12px;
+    left: 0;
+    z-index: 2; /* Ensure the technology image is in front */
+  }
+  
+  .container-fluid .ellipse-3 {
+    background-color: #fff; /* Replace with your background color */
+    border-radius: 50%;
+    height: 31px;
+    width: 31px;
+    position: absolute;
+    top: 256px;
+    left: 640px;
+    z-index: 1; /* Ensure it's behind the technology image but in front of the main ellipse */
+  }
+  
+  .container-fluid .ellipse-4 {
+    background-color: #977df4;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 126px;
+    left: 663px;
+    z-index: 1; /* Ensure it's behind the technology image but in front of the main ellipse */
+  }
+  
+  .container-fluid .ellipse-5 {
+    background-color: #977df4;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 422px;
+    left: 92px;
+    z-index: 1; /* Ensure it's behind the technology image but in front of the main ellipse */
+  }
+  
